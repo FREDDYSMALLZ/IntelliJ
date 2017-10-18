@@ -15,7 +15,7 @@ import java.util.Scanner;
  *      numbers, invokes this method to return the minimum value,
  *      and displays the minimum value.
  *
- * Created by Luiz Arantes Sa on 8/27/14.
+ * Created by  Sa on 8/27/14.
  */
 public class Exercise_09 {
 
